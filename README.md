@@ -5,7 +5,6 @@ COMP2501 Project - An puzzle solving escape game!
 - Luke Harper
 - Nick Chiasson
 
-
 ### Controls
 | Key        | Action        |
 | ---------- | ------------- |
