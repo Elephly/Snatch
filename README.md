@@ -1,5 +1,5 @@
 # Snatch
-COMP2501 Project - An puzzle solving escape game!
+COMP2501 Project - A puzzle solving escape game!
 
 ### Contributors
 - Luke Harper
